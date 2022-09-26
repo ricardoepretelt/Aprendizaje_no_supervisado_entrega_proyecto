@@ -11,7 +11,7 @@ El objetivo del proyecto es identificar los instrumentos financieros con comport
 En el proceso de clustering estos grupos con comportamientos similares deben ser mutuamente excluyentes; es decir, cada instrumento debe pertenecer a un sólo grupo y cada grupo debe estar formado por empresas en el que su comportamiento sea lo más parecido posible y a la vez, con comportamientos diferentes entre grupos. En la práctica, se busca encontrar grupos con elementos lo más homogéneos posibles pero heterogéneos entre ellos.
 
 ## Video del proyecto
-[https://youtu.be/pXtEo1KKN4c](click para ir a youtube)
+[click para ir a youtube](https://youtu.be/pXtEo1KKN4c)
 
 ## Contenido
 En el repositorio encontrarás
